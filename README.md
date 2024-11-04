@@ -27,7 +27,6 @@ The system provides a user-friendly application form for applicants, allowing th
 - **Language**: C#
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: SQL Server (for storing applicant and application data)
-- **Other Tools**: Git for version control, GitHub for repository hosting and code management
 
 ---
 
